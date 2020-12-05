@@ -1,0 +1,103 @@
+body {
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 14px;
+    margin: 0 10%;
+  }
+  
+  h1 {
+    font-weight: bold;
+    font-size: 26px;
+    text-align: center;
+  }
+  
+  h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: "Josefin Sans", sans-serif;
+  }
+  
+  .container {
+    border: 2px solid grey;
+    padding: 10px;
+    margin: 10px auto;
+  }
+  
+  .color-container {
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  
+  .color-panel {
+    display: inline-block;
+    text-align: center;
+    width: 32%;
+    margin: 20px auto;
+  }
+  
+  .coral1 {
+    background-color: hsl(10, 100%, 67%);
+  }
+  
+  .jack-pine {
+    background-color: hsl(74, 63%, 19%);
+    color: white;
+  }
+  
+  .atlantic-green {
+    background-color: hsl(173, 54%, 36%);
+    color: white;
+  }
+  
+  .bordeaux {
+    background-color: hsl(351, 73%, 35%);
+    color: white;
+  }
+  
+  .font-panel {
+    width: 30%;
+    display: inline-block;
+  }
+  
+  .font-name {
+    font-size: 20px;
+    text-decoration: underline;
+  }
+  
+  .regular {
+    font-style: normal;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+  
+  .italic {
+    font-style: italic;
+  }
+  
+  .texturina {
+    font-family: Texturina;
+  }
+  
+  .josefin-sans {
+    font-family: "Josefin Sans";
+  }
+  
+  .text-panel h1 {
+    font-weight: bold;
+    font-size: 26px;
+    text-align: left;
+  }
+  
+  .text-panel h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: "Josefin Sans";
+  }
+  
+  .text-panel p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: "Josefin Sans";
+  }
